@@ -49,6 +49,13 @@ const socials: Social[] = [
     icon: '/images/github.png',
     accent: 'emerald',
   },
+  {
+    label: 'Web',
+    handle: 'Presentation site',
+    url: 'https://my-prestation-web--my-presentation-web-app.asia-southeast1.hosted.app/',
+    icon: '/images/object3.svg',
+    accent: 'amber',
+  }
 ];
 
 const Contact = () => {

@@ -10,7 +10,7 @@ export default function ImageCards() {
     '/images/pers_3.jpg',
     '/images/pers_4.jpg',
     '/images/pers_5.jpg',
-    '/images/pers_6.jpg',
+    '/images/pers_7.jpg',
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
