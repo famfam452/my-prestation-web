@@ -1,0 +1,280 @@
+/* Side menu */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 33.32px;
+height: 291.55px;
+left: 0.09px;
+top: 89.14px;
+
+background: rgba(255, 255, 255, 0.4);
+box-shadow: 0px 16.6075px 16.6075px rgba(69, 42, 124, 0.15);
+backdrop-filter: blur(4.1875px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 0px 20.8251px 20.8251px 0px;
+
+
+/* Background */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 33.32px;
+height: 291.55px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.4);
+box-shadow: 0px 16.6075px 16.6075px rgba(69, 42, 124, 0.15);
+backdrop-filter: blur(4.1875px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Menu icons */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 33.32px;
+
+position: absolute;
+width: 18.33px;
+height: 224.49px;
+left: 7.5px;
+top: 33.74px;
+
+
+
+/* Home */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.16503px;
+gap: 4.17px;
+
+width: 18.33px;
+height: 18.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* home
+
+address, app, application--house, architecture, building, components, design, estate, home, homepage, house, interface, layout, place, real, residence, residential, screen, shelter, site, structure, ui, unit, ux, web, website, window
+*/
+
+width: 10px;
+height: 10px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 14.58%;
+bottom: 14.58%;
+
+background: #0F103F;
+
+
+/* About */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.16503px;
+gap: 4.17px;
+
+width: 18.33px;
+height: 18.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* person_outline
+
+account, face, human, outline, people, person, profile, user
+*/
+
+width: 10px;
+height: 10px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.67%;
+bottom: 16.67%;
+
+background: #0F103F;
+
+
+/* Portfolio */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.16503px;
+gap: 4.17px;
+
+width: 18.33px;
+height: 18.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* work
+
+-briefcase, bag, baggage, business, case, job, suitcase, work
+*/
+
+width: 10px;
+height: 10px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+background: #FFFFFF;
+
+
+/* Contact */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.16503px;
+gap: 4.17px;
+
+width: 17.91px;
+height: 17.91px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Phone_fill */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0.833005px;
+gap: 4.17px;
+
+width: 9.58px;
+height: 9.58px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector 189 */
+
+width: 7.91px;
+height: 7.91px;
+
+background: #0F103F;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Search */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.16503px;
+gap: 4.17px;
+
+width: 18.33px;
+height: 18.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* search
+
+filter, find, glass, look, magnify, magnifying, search, see
+*/
+
+width: 10px;
+height: 10px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.56%;
+right: 13.56%;
+top: 13.56%;
+bottom: 13.56%;
+
+background: #0F103F;

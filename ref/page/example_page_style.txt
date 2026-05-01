@@ -1,0 +1,3491 @@
+/* Frame 3464 */
+
+position: absolute;
+width: 603px;
+height: 857.6px;
+left: 339px;
+top: 57px;
+
+background: #0F103F;
+box-shadow: 41.875px 41.875px 83.75px #2F486A;
+
+
+/* Home page */
+
+position: absolute;
+width: 603px;
+height: 428.8px;
+left: 0px;
+top: 0px;
+
+
+
+/* Ellipse 326 */
+
+position: absolute;
+width: 494.12px;
+height: 411.21px;
+left: 257.11px;
+top: 72.44px;
+
+background: radial-gradient(74.54% 74.54% at 29.32% 11.1%, rgba(30, 46, 113, 0.8) 0%, rgba(30, 46, 113, 0) 96.62%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+filter: blur(62.8125px);
+
+
+/* Group 1184 */
+
+position: absolute;
+visibility: hidden;
+width: 153.99px;
+height: 180.9px;
+left: -30.99px;
+top: -5.86px;
+
+
+
+/* Group 1168 */
+
+position: absolute;
+visibility: hidden;
+width: 162.52px;
+height: 106.81px;
+left: -0.18px;
+top: 133.66px;
+
+opacity: 0.1;
+transform: matrix(0.62, -0.78, -0.78, -0.62, 0, 0);
+
+
+/* Star 4 */
+
+position: absolute;
+width: 35.83px;
+height: 51.9px;
+left: 16.01px;
+top: 227.31px;
+
+background: linear-gradient(159.6deg, #FFFFFF 8.8%, #FF96DB 47.9%, #4AC9FF 85.51%);
+transform: matrix(0.93, -0.36, -0.36, -0.93, 0, 0);
+
+
+/* Star 5 */
+
+position: absolute;
+width: 21.57px;
+height: 31.24px;
+left: 143.48px;
+top: 183.44px;
+
+background: linear-gradient(180deg, #8DEBFF 0%, #5484FF 100%);
+transform: matrix(0.93, -0.36, -0.36, -0.93, 0, 0);
+
+
+/* Rectangle 827 */
+
+position: absolute;
+width: 121.1px;
+height: 70.89px;
+left: 46.01px;
+top: 154.91px;
+
+background: linear-gradient(266.21deg, #2FB4FF -1.57%, rgba(24, 30, 173, 0.4) 39.7%, #40F4FF 94.08%);
+transform: matrix(0.62, -0.78, -0.78, -0.62, 0, 0);
+
+
+/* Rectangle 829 */
+
+position: absolute;
+width: 117.15px;
+height: 77.56px;
+left: 32.7px;
+top: 142.31px;
+
+background: linear-gradient(246.72deg, #2FB4FF -1.32%, rgba(28, 52, 138, 0.8) 15.23%, rgba(45, 24, 173, 0.6) 60.95%, #40F4FF 100%);
+transform: matrix(0.62, -0.78, -0.78, -0.62, 0, 0);
+
+
+/* Rectangle 830 */
+
+position: absolute;
+width: 31.03px;
+height: 20.19px;
+left: 18.96px;
+top: 226.78px;
+
+background: linear-gradient(63.41deg, #FFFFFF 10.27%, rgba(138, 234, 255, 0) 100%);
+transform: matrix(0.62, -0.78, -0.78, -0.62, 0, 0);
+
+
+/* Rectangle 828 */
+
+position: absolute;
+width: 135.29px;
+height: 49.79px;
+left: 49.84px;
+top: 175.04px;
+
+background: linear-gradient(267.42deg, rgba(18, 69, 147, 0.7) -15.61%, rgba(28, 52, 138, 0.5) 65.43%, #40F4FF 87.22%, #FFFFFF 101.21%);
+transform: matrix(0.62, -0.78, -0.78, -0.62, 0, 0);
+
+
+/* Ellipse 326 */
+
+position: absolute;
+visibility: hidden;
+width: 265.87px;
+height: 128.41px;
+left: -44.4px;
+top: 163.1px;
+
+background: radial-gradient(50% 50% at 50% 50%, rgba(151, 115, 255, 0.3) 4.17%, rgba(115, 154, 255, 0.24) 50%, rgba(105, 120, 255, 0) 100%);
+mix-blend-mode: lighten;
+
+
+/* Group 1167 */
+
+position: absolute;
+visibility: hidden;
+width: 294.1px;
+height: 193.28px;
+left: 51.54px;
+top: 272.47px;
+
+transform: rotate(7.46deg);
+
+
+/* Star 4 */
+
+position: absolute;
+width: 64.84px;
+height: 93.92px;
+left: 62.1px;
+top: 358.61px;
+
+background: linear-gradient(163.33deg, #FFFFFF 20.71%, #FF96DB 53.64%, #4AC9FF 85.32%);
+transform: matrix(0.92, -0.38, 0.38, 0.92, 0, 0);
+
+
+/* Star 5 */
+
+position: absolute;
+width: 39.03px;
+height: 56.54px;
+left: 304.16px;
+top: 306.97px;
+
+background: linear-gradient(180deg, #8DEBFF 0%, #5484FF 100%);
+transform: rotate(-22.54deg);
+
+
+/* Rectangle 827 */
+
+position: absolute;
+width: 219.14px;
+height: 128.29px;
+left: 125.7px;
+top: 293.42px;
+
+background: linear-gradient(266.21deg, #2FB4FF -1.57%, rgba(24, 30, 173, 0.4) 39.7%, #40F4FF 94.08%);
+transform: rotate(7.46deg);
+
+
+/* Rectangle 829 */
+
+position: absolute;
+width: 212px;
+height: 140.35px;
+left: 128.05px;
+top: 318.62px;
+
+background: linear-gradient(246.72deg, #2FB4FF -1.32%, rgba(28, 52, 138, 0.8) 15.23%, rgba(45, 24, 173, 0.6) 60.95%, #40F4FF 100%);
+transform: rotate(7.46deg);
+
+
+/* Rectangle 830 */
+
+position: absolute;
+width: 56.16px;
+height: 36.54px;
+left: 88.56px;
+top: 416.38px;
+
+background: linear-gradient(63.41deg, #FFFFFF 10.27%, rgba(138, 234, 255, 0) 100%);
+transform: rotate(7.46deg);
+
+
+/* Rectangle 828 */
+
+position: absolute;
+width: 244.82px;
+height: 90.1px;
+left: 91.5px;
+top: 285.79px;
+
+background: linear-gradient(267.42deg, rgba(18, 69, 147, 0.7) -15.61%, rgba(28, 52, 138, 0.5) 65.43%, #40F4FF 87.22%, #FFFFFF 101.21%);
+transform: rotate(7.46deg);
+
+
+/* Ellipse 328 */
+
+position: absolute;
+width: 20.51px;
+height: 20.51px;
+left: 51.74px;
+top: 154.53px;
+
+background: linear-gradient(180deg, #FFFFFF -21.74%, #6BE4FF 17.53%, rgba(55, 27, 115, 0.6) 87.54%, rgba(10, 17, 83, 0.4) 153.62%);
+box-shadow: 0px -0.779215px 7.79215px #7D5FBB,
+0px -0.779215px 13.6363px #5F3CA8;
+
+
+/* Ellipse 329 */
+
+position: absolute;
+width: 15.17px;
+height: 15.17px;
+left: 85.69px;
+top: 124.46px;
+
+background: linear-gradient(180deg, #FFFFFF -21.74%, #6BE4FF 17.53%, rgba(55, 27, 115, 0.6) 87.54%, rgba(10, 17, 83, 0.4) 153.62%);
+box-shadow: 0px -0.779215px 7.79215px #7D5FBB,
+0px -0.779215px 13.6363px #5F3CA8;
+
+
+/* Ellipse 339 */
+
+position: absolute;
+width: 153.99px;
+height: 153.99px;
+left: -30.99px;
+top: -5.86px;
+
+background: radial-gradient(50% 50% at 50% 50%, rgba(255, 101, 193, 0.6) 0%, rgba(255, 101, 193, 0) 100%);
+
+
+/* Ellipse 336 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 92.26px;
+height: 57.8px;
+left: 15.71px;
+top: 59.51px;
+
+background: linear-gradient(180deg, rgba(19, 21, 77, 0.5) 0%, rgba(142, 146, 238, 0) 100%);
+filter: drop-shadow(0px 0.389607px 3.89607px rgba(112, 51, 173, 0.3));
+
+
+/* Ellipse 330 */
+
+position: absolute;
+width: 117.05px;
+height: 117.05px;
+left: 3.32px;
+top: 2.93px;
+
+background: radial-gradient(100% 100% at 0% 68.19%, #FFFFFF 24.93%, rgba(255, 143, 237, 0.5) 48.32%, rgba(34, 12, 122, 0.5) 62.7%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+
+
+/* Ellipse 337 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 114.44px;
+height: 66.95px;
+left: 4.63px;
+top: 37.66px;
+
+background: linear-gradient(86.22deg, rgba(255, 255, 255, 0.5) 6.27%, rgba(18, 23, 142, 0.2) 96.3%);
+
+
+/* Ellipse 331 */
+
+position: absolute;
+width: 86.7px;
+height: 86.7px;
+left: 18.49px;
+top: 18.11px;
+
+background: radial-gradient(48.46% 48.46% at 97.37% 88.65%, #3F52FF 0%, rgba(63, 82, 255, 0) 100%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+,
+radial-gradient(95.76% 95.76% at 12.18% 75.39%, #FFFFFF 23.94%, #FFCEF1 41.01%, #B6B9FF 67.49%, #FFA8E7 86.12%, #FFFFFF 100%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+
+
+/* Ellipse 335 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 113.27px;
+height: 65.4px;
+left: 5.21px;
+top: 17.65px;
+
+background: linear-gradient(91.03deg, rgba(255, 255, 255, 0.5) 1.88%, rgba(86, 83, 255, 0.1) 99.15%);
+box-shadow: 0px 0.389607px 1.94804px rgba(94, 23, 128, 0.15);
+
+
+/* Ellipse 334 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 87.9px;
+height: 56.81px;
+left: 17.9px;
+top: 5.06px;
+
+background: linear-gradient(180deg, rgba(19, 21, 77, 0.25) 0%, rgba(142, 146, 238, 0) 100%);
+filter: drop-shadow(0.389607px 0.389607px 2.92206px rgba(112, 51, 173, 0.2));
+
+
+/* Ellipse 333 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 54.71px;
+height: 37.08px;
+left: 34.49px;
+top: 5.06px;
+
+background: linear-gradient(180deg, rgba(19, 21, 77, 0.5) 0%, rgba(142, 146, 238, 0) 100%);
+
+
+/* Ellipse 332 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 31.67px;
+height: 21.79px;
+left: 46.01px;
+top: 6.37px;
+
+background: linear-gradient(180deg, rgba(19, 21, 77, 0.5) 0%, rgba(142, 146, 238, 0) 100%);
+
+
+/* Ellipse 338 */
+
+position: absolute;
+width: 117.05px;
+height: 117.05px;
+left: 3.32px;
+top: 2.93px;
+
+background: radial-gradient(100% 100% at 0% 68.19%, rgba(255, 255, 255, 0.3) 24.93%, rgba(255, 143, 237, 0.15) 48.32%, rgba(34, 12, 122, 0) 62.7%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+
+
+/* Group 3434 */
+
+position: absolute;
+visibility: hidden;
+width: 185.08px;
+height: 185.08px;
+left: 444.42px;
+top: 227.39px;
+
+
+
+/* Group 1172 */
+
+position: absolute;
+width: 185.08px;
+height: 185.08px;
+left: 444.42px;
+top: 227.39px;
+
+
+
+/* Ellipse 355 */
+
+position: absolute;
+width: 124.95px;
+height: 124.95px;
+left: 474.48px;
+top: 257.48px;
+
+background: radial-gradient(100.95% 100.95% at 29.92% 106.32%, rgba(255, 255, 255, 0.25) 10.74%, rgba(143, 181, 255, 0.25) 32.84%, rgba(34, 12, 122, 0) 62.95%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+
+
+/* Group 1171 */
+
+position: absolute;
+width: 185.08px;
+height: 185.08px;
+left: 444.42px;
+top: 227.39px;
+
+
+
+/* Ellipse 347 */
+
+position: absolute;
+width: 185.08px;
+height: 185.08px;
+left: 444.42px;
+top: 227.39px;
+
+background: radial-gradient(50% 50% at 50% 50%, rgba(62, 93, 255, 0.6) 0%, rgba(62, 93, 255, 0) 100%);
+
+
+/* Ellipse 348 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 98.49px;
+height: 61.7px;
+left: 487.71px;
+top: 317.87px;
+
+background: linear-gradient(267.41deg, rgba(78, 83, 190, 0.25) 1.69%, rgba(51, 206, 255, 0.35) 86.82%, rgba(255, 255, 255, 0.25) 97.84%);
+box-shadow: 0.438968px 0.438968px 3.29226px rgba(112, 51, 173, 0.2);
+
+
+/* Ellipse 349 */
+
+position: absolute;
+width: 124.95px;
+height: 124.95px;
+left: 474.48px;
+top: 257.48px;
+
+background: radial-gradient(100% 100% at 0% 68.19%, #FFFFFF 24.93%, rgba(143, 242, 255, 0.5) 48.32%, rgba(34, 12, 122, 0.1) 62.7%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+
+
+/* Ellipse 350 */
+
+position: absolute;
+width: 122.16px;
+height: 71.46px;
+left: 475.88px;
+top: 294.55px;
+
+background: linear-gradient(268.94deg, rgba(78, 83, 190, 0.05) 5.91%, rgba(51, 206, 255, 0.5) 99.09%);
+box-shadow: 0.438968px 0.438968px 3.29226px rgba(112, 51, 173, 0.2);
+
+
+/* Ellipse 352 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 120.91px;
+height: 69.81px;
+left: 476.5px;
+top: 273.19px;
+
+background: linear-gradient(268.51deg, rgba(78, 83, 190, 0.05) 12.93%, rgba(51, 206, 255, 0.5) 98.49%);
+box-shadow: 0.438968px 0.438968px 3.29226px rgba(112, 51, 173, 0.2);
+
+
+/* Ellipse 354 */
+
+position: absolute;
+width: 58.4px;
+height: 39.58px;
+left: 507.76px;
+top: 259.75px;
+
+background: linear-gradient(267.41deg, rgba(78, 83, 190, 0.05) 1.69%, rgba(51, 206, 255, 0.45) 97.84%);
+box-shadow: 0.438968px 0.438968px 3.29226px rgba(112, 51, 173, 0.2);
+
+
+/* Ellipse 351 */
+
+position: absolute;
+width: 92.55px;
+height: 92.55px;
+left: 490.68px;
+top: 273.68px;
+
+background: radial-gradient(134.91% 134.91% at 74.7% 100%, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 100%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+,
+radial-gradient(144.24% 144.24% at 59.74% 144.24%, rgba(104, 255, 246, 0.1) 33.85%, #FFBFE9 80.21%, #FFFFFF 100%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+
+
+/* Ellipse 356 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 93.83px;
+height: 60.65px;
+left: 490.04px;
+top: 259.75px;
+
+filter: drop-shadow(0.438968px 0.438968px 3.29226px rgba(112, 51, 173, 0.2));
+
+
+/* Ellipse 357 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 120.91px;
+height: 69.81px;
+left: 476.5px;
+top: 273.19px;
+
+filter: drop-shadow(0.438968px 0.438968px 3.29226px rgba(112, 51, 173, 0.2));
+
+
+/* Ellipse 358 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122.16px;
+height: 71.46px;
+left: 475.88px;
+top: 294.55px;
+
+filter: drop-shadow(0.438968px 0.438968px 3.29226px rgba(112, 51, 173, 0.2));
+
+
+/* Ellipse 359 */
+
+position: absolute;
+width: 58.4px;
+height: 39.58px;
+left: 507.76px;
+top: 259.75px;
+
+
+
+/* Ellipse 360 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 58.4px;
+height: 39.58px;
+left: 507.76px;
+top: 259.75px;
+
+filter: drop-shadow(0.438968px 0.438968px 3.29226px rgba(112, 51, 173, 0.2));
+
+
+/* Group 1181 */
+
+position: absolute;
+visibility: hidden;
+width: 472.98px;
+height: 265.32px;
+left: 260.88px;
+top: 114.25px;
+
+
+
+/* Ellipse 341 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 472.98px;
+height: 265.32px;
+left: 260.88px;
+top: 114.25px;
+
+
+
+/* Ellipse 342 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 279.89px;
+height: 160.81px;
+left: 375.57px;
+top: 209.25px;
+
+background: radial-gradient(66.99% 119.42% at 1.6% 96.04%, #FFFFFF 0%, #3A45AA 46.25%, rgba(58, 69, 170, 0) 100%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+
+
+/* Ellipse 346 */
+
+position: absolute;
+width: 143.93px;
+height: 80.74px;
+left: 449.32px;
+top: 279.56px;
+
+background: radial-gradient(81.03% 180.41% at 76.03% 4.12%, rgba(27, 41, 164, 0) 39.2%, rgba(41, 56, 187, 0.3) 84.19%, rgba(23, 32, 117, 0.3) 100%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+
+
+/* Subtract */
+
+position: absolute;
+width: 182.5px;
+height: 98.01px;
+left: 430.03px;
+top: 262.29px;
+
+background: radial-gradient(92.29% 198.5% at 76.03% 4.12%, rgba(102, 117, 255, 0) 39.2%, rgba(102, 117, 255, 0.3) 84.19%, rgba(25, 32, 89, 0) 100%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+box-shadow: 2.19484px 0px 3.29226px rgba(30, 42, 143, 0.1);
+
+
+/* Ellipse 345 */
+
+position: absolute;
+width: 182.5px;
+height: 98.01px;
+left: 430.03px;
+top: 262.29px;
+
+background: radial-gradient(81.03% 180.41% at 76.03% 4.12%, rgba(102, 117, 255, 0) 39.2%, rgba(102, 117, 255, 0.1) 84.19%, rgba(219, 222, 255, 0.1) 100%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+
+
+/* Ellipse 348 */
+
+position: absolute;
+width: 143.93px;
+height: 80.74px;
+left: 449.32px;
+top: 279.56px;
+
+background: radial-gradient(81.03% 180.41% at 76.03% 4.12%, rgba(102, 117, 255, 0) 39.2%, rgba(102, 117, 255, 0.5) 84.19%, rgba(219, 222, 255, 0.5) 100%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+
+
+/* Subtract */
+
+position: absolute;
+width: 260.69px;
+height: 146.23px;
+left: 390.94px;
+top: 218.43px;
+
+background: radial-gradient(92.29% 198.5% at 76.03% 4.12%, rgba(102, 117, 255, 0) 39.2%, rgba(102, 117, 255, 0.5) 84.19%, rgba(219, 222, 255, 0) 100%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+box-shadow: 2.19484px -0.219484px 3.29226px rgba(30, 42, 143, 0.1);
+
+
+/* Ellipse 344 */
+
+position: absolute;
+width: 260.69px;
+height: 146.23px;
+left: 390.94px;
+top: 218.43px;
+
+background: radial-gradient(92.29% 198.5% at 76.03% 4.12%, rgba(102, 117, 255, 0) 39.2%, rgba(102, 117, 255, 0.5) 84.19%, rgba(219, 222, 255, 0) 100%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+
+
+/* Ellipse 347 */
+
+position: absolute;
+width: 182.5px;
+height: 98.01px;
+left: 430.03px;
+top: 262.29px;
+
+background: radial-gradient(81.03% 180.41% at 76.03% 4.12%, rgba(102, 117, 255, 0) 39.2%, rgba(102, 117, 255, 0.5) 84.19%, rgba(219, 222, 255, 0.5) 100%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+
+
+/* Subtract */
+
+position: absolute;
+width: 118px;
+height: 66.19px;
+left: 462.29px;
+top: 292.14px;
+
+background: radial-gradient(81.03% 180.41% at 76.03% 4.12%, rgba(23, 33, 122, 0) 39.2%, rgba(26, 35, 116, 0.5) 84.19%, rgba(21, 30, 108, 0.5) 100%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+
+
+/* Ellipse 347 */
+
+position: absolute;
+width: 118px;
+height: 66.19px;
+left: 462.29px;
+top: 292.14px;
+
+background: radial-gradient(81.03% 180.41% at 76.03% 4.12%, rgba(102, 117, 255, 0) 39.2%, rgba(102, 117, 255, 0.5) 84.19%, rgba(219, 222, 255, 0.5) 100%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+
+
+/* Ellipse 348 */
+
+position: absolute;
+width: 93.24px;
+height: 52.31px;
+left: 474.66px;
+top: 306.02px;
+
+background: radial-gradient(81.03% 180.41% at 76.03% 4.12%, rgba(102, 117, 255, 0) 39.2%, rgba(102, 117, 255, 0.5) 84.19%, rgba(219, 222, 255, 0.5) 100%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+
+
+/* Ellipse 343 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 197.36px;
+height: 110.71px;
+left: 422.61px;
+top: 251.72px;
+
+
+
+/* Group 1175 */
+
+position: absolute;
+width: 68.99px;
+height: 75.14px;
+left: 385.71px;
+top: 270.33px;
+
+
+
+/* Rectangle 834 */
+
+position: absolute;
+width: 0.98px;
+height: 0.98px;
+left: 407.32px;
+top: 305.68px;
+
+background: #00FFF0;
+transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0);
+
+
+/* Group 1174 */
+
+position: absolute;
+width: 68.99px;
+height: 75.14px;
+left: 385.71px;
+top: 270.33px;
+
+
+
+/* Rectangle 831 */
+
+position: absolute;
+width: 1.98px;
+height: 1.98px;
+left: 417.03px;
+top: 325.23px;
+
+background: #00FFF0;
+transform: rotate(45deg);
+
+
+/* Rectangle 832 */
+
+position: absolute;
+width: 0.92px;
+height: 0.92px;
+left: 453.39px;
+top: 325.98px;
+
+background: #00FFF0;
+transform: matrix(-0.71, -0.71, -0.71, 0.71, 0, 0);
+
+
+/* Rectangle 833 */
+
+position: absolute;
+width: 0.98px;
+height: 0.98px;
+left: 438.78px;
+top: 344.09px;
+
+background: #00FFF0;
+transform: rotate(45deg);
+
+
+/* Rectangle 835 */
+
+position: absolute;
+width: 0.98px;
+height: 0.98px;
+left: 385.71px;
+top: 303.36px;
+
+background: #00FFF0;
+transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0);
+
+
+/* Rectangle 836 */
+
+position: absolute;
+width: 0.98px;
+height: 0.98px;
+left: 390.95px;
+top: 270.33px;
+
+background: rgba(0, 255, 240, 0.5);
+transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0);
+
+
+/* Rectangle 837 */
+
+position: absolute;
+width: 0.69px;
+height: 0.69px;
+left: 406.14px;
+top: 289.61px;
+
+background: rgba(0, 255, 240, 0.5);
+transform: rotate(45deg);
+
+
+/* Rectangle 838 */
+
+position: absolute;
+width: 1.28px;
+height: 1.28px;
+left: 397.37px;
+top: 286.19px;
+
+background: rgba(0, 255, 240, 0.5);
+transform: rotate(45deg);
+
+
+/* Group 1190 */
+
+position: absolute;
+visibility: hidden;
+width: 467.02px;
+height: 304.04px;
+left: 261.24px;
+top: 69.93px;
+
+
+
+/* Group 1180 */
+
+position: absolute;
+width: 70.91px;
+height: 70.91px;
+left: 403.57px;
+top: 244.11px;
+
+
+
+/* Group 1173 */
+
+position: absolute;
+width: 70.91px;
+height: 70.91px;
+left: 403.57px;
+top: 244.11px;
+
+
+
+/* Ellipse 339 */
+
+position: absolute;
+width: 70.91px;
+height: 70.91px;
+left: 403.57px;
+top: 244.11px;
+
+background: radial-gradient(50% 50% at 50% 50%, rgba(255, 101, 193, 0.6) 0%, rgba(255, 101, 193, 0) 100%);
+
+
+/* Ellipse 336 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 44.56px;
+height: 27.91px;
+left: 412.39px;
+top: 275.45px;
+
+background: linear-gradient(267.41deg, rgba(78, 83, 190, 0.25) 1.69%, rgba(251, 51, 255, 0.25) 86.82%, rgba(255, 255, 255, 0.25) 97.84%);
+box-shadow: 0.438968px 0.438968px 3.29226px rgba(112, 51, 173, 0.2);
+
+
+/* Ellipse 330 */
+
+position: absolute;
+width: 56.53px;
+height: 56.53px;
+left: 406.4px;
+top: 248.13px;
+
+background: radial-gradient(100% 100% at 0% 68.19%, #FFFFFF 24.93%, rgba(255, 143, 237, 0.5) 48.32%, rgba(34, 12, 122, 0.5) 62.7%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+
+
+/* Ellipse 337 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 55.26px;
+height: 32.33px;
+left: 407.04px;
+top: 264.9px;
+
+background: linear-gradient(267.41deg, rgba(78, 83, 190, 0.25) 1.69%, rgba(251, 51, 255, 0.25) 86.82%, rgba(255, 255, 255, 0.25) 97.84%);
+box-shadow: 0.438968px 0.438968px 3.29226px rgba(112, 51, 173, 0.2);
+
+
+/* Ellipse 331 */
+
+position: absolute;
+width: 41.87px;
+height: 41.87px;
+left: 413.73px;
+top: 255.45px;
+
+background: radial-gradient(134.91% 134.91% at 74.7% 100%, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+,
+radial-gradient(95.66% 95.66% at 66.07% 100%, #FFFFFF 22.4%, #FFCEF1 46.64%, #B6B9FF 68.23%, #FFFFFF 88.18%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+
+
+/* Ellipse 335 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 54.7px;
+height: 31.58px;
+left: 407.32px;
+top: 255.23px;
+
+background: linear-gradient(267.41deg, rgba(78, 83, 190, 0.25) 1.69%, rgba(251, 51, 255, 0.25) 86.82%, rgba(255, 255, 255, 0.25) 97.84%);
+box-shadow: 0.438968px 0.438968px 3.29226px rgba(112, 51, 173, 0.2);
+
+
+/* Ellipse 334 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 42.45px;
+height: 27.44px;
+left: 413.45px;
+top: 249.15px;
+
+background: linear-gradient(267.41deg, rgba(78, 83, 190, 0.25) 1.69%, rgba(251, 51, 255, 0.25) 86.82%, rgba(255, 255, 255, 0.25) 97.84%);
+box-shadow: 0.438968px 0.438968px 3.29226px rgba(112, 51, 173, 0.2);
+
+
+/* Ellipse 333 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 26.42px;
+height: 17.91px;
+left: 421.46px;
+top: 249.15px;
+
+background: linear-gradient(267.41deg, rgba(78, 83, 190, 0.25) 1.69%, rgba(251, 51, 255, 0.25) 86.82%, rgba(255, 255, 255, 0.25) 97.84%);
+box-shadow: 0.438968px 0.438968px 3.29226px rgba(112, 51, 173, 0.2);
+
+
+/* Ellipse 338 */
+
+position: absolute;
+width: 56.53px;
+height: 56.53px;
+left: 406.4px;
+top: 248.13px;
+
+background: radial-gradient(143.05% 143.05% at 29.92% 106.32%, rgba(255, 255, 255, 0.9) 24.93%, rgba(255, 143, 237, 0.45) 48.32%, rgba(34, 12, 122, 0) 62.7%)
+/* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+;
+
+
+/* Group 1179 */
+
+position: absolute;
+width: 467.02px;
+height: 304.04px;
+left: 261.24px;
+top: 69.93px;
+
+
+
+/* Group 1176 */
+
+position: absolute;
+width: 81.63px;
+height: 88.92px;
+left: 336.03px;
+top: 134px;
+
+
+
+/* Rectangle 834 */
+
+position: absolute;
+width: 1.16px;
+height: 1.16px;
+left: 361.6px;
+top: 175.83px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: rotate(45deg);
+
+
+/* Group 1174 */
+
+position: absolute;
+width: 81.63px;
+height: 88.92px;
+left: 336.03px;
+top: 134px;
+
+
+
+/* Rectangle 831 */
+
+position: absolute;
+width: 2.34px;
+height: 2.34px;
+left: 373.09px;
+top: 198.95px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: rotate(45deg);
+
+
+/* Rectangle 832 */
+
+position: absolute;
+width: 1.09px;
+height: 1.09px;
+left: 416.12px;
+top: 199.84px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: matrix(-0.71, -0.71, -0.71, 0.71, 0, 0);
+
+
+/* Rectangle 833 */
+
+position: absolute;
+width: 1.16px;
+height: 1.16px;
+left: 398.83px;
+top: 221.27px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: rotate(45deg);
+
+
+/* Rectangle 835 */
+
+position: absolute;
+width: 1.16px;
+height: 1.16px;
+left: 336.03px;
+top: 173.08px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: rotate(45deg);
+
+
+/* Rectangle 836 */
+
+position: absolute;
+width: 1.16px;
+height: 1.16px;
+left: 342.22px;
+top: 134px;
+
+background: rgba(5, 0, 255, 0.5);
+transform: rotate(45deg);
+
+
+/* Rectangle 837 */
+
+position: absolute;
+width: 0.81px;
+height: 0.81px;
+left: 360.2px;
+top: 156.81px;
+
+background: rgba(5, 0, 255, 0.5);
+transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0);
+
+
+/* Rectangle 838 */
+
+position: absolute;
+width: 1.51px;
+height: 1.51px;
+left: 349.82px;
+top: 152.76px;
+
+background: rgba(5, 0, 255, 0.5);
+transform: rotate(45deg);
+
+
+/* Group 1178 */
+
+position: absolute;
+width: 113.5px;
+height: 123.63px;
+left: 261.24px;
+top: 250.34px;
+
+
+
+/* Rectangle 834 */
+
+position: absolute;
+width: 1.61px;
+height: 1.61px;
+left: 296.8px;
+top: 308.51px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: rotate(45deg);
+
+
+/* Group 1174 */
+
+position: absolute;
+width: 113.5px;
+height: 123.63px;
+left: 261.24px;
+top: 250.34px;
+
+
+
+/* Rectangle 831 */
+
+position: absolute;
+width: 3.26px;
+height: 3.26px;
+left: 312.77px;
+top: 340.66px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0);
+
+
+/* Rectangle 832 */
+
+position: absolute;
+width: 1.52px;
+height: 1.52px;
+left: 372.6px;
+top: 341.89px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: matrix(-0.71, -0.71, -0.71, 0.71, 0, 0);
+
+
+/* Rectangle 833 */
+
+position: absolute;
+width: 1.61px;
+height: 1.61px;
+left: 348.56px;
+top: 371.69px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0);
+
+
+/* Rectangle 835 */
+
+position: absolute;
+width: 1.61px;
+height: 1.61px;
+left: 261.24px;
+top: 304.68px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0);
+
+
+/* Rectangle 836 */
+
+position: absolute;
+width: 1.61px;
+height: 1.61px;
+left: 269.86px;
+top: 250.34px;
+
+background: rgba(5, 0, 255, 0.5);
+transform: rotate(45deg);
+
+
+/* Rectangle 837 */
+
+position: absolute;
+width: 1.13px;
+height: 1.13px;
+left: 294.86px;
+top: 282.06px;
+
+background: rgba(5, 0, 255, 0.5);
+transform: rotate(45deg);
+
+
+/* Rectangle 838 */
+
+position: absolute;
+width: 2.1px;
+height: 2.1px;
+left: 280.42px;
+top: 276.43px;
+
+background: rgba(5, 0, 255, 0.5);
+transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0);
+
+
+/* Group 1177 */
+
+position: absolute;
+width: 147.8px;
+height: 227.94px;
+left: 474.4px;
+top: 69.93px;
+
+transform: rotate(-77.9deg);
+
+
+/* Rectangle 834 */
+
+position: absolute;
+width: 1.38px;
+height: 1.38px;
+left: 649.08px;
+top: 219.03px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: rotate(-32.9deg);
+
+
+/* Group 1174 */
+
+position: absolute;
+width: 97.14px;
+height: 105.81px;
+left: 593.82px;
+top: 145.07px;
+
+transform: rotate(-77.9deg);
+
+
+/* Rectangle 831 */
+
+position: absolute;
+width: 2.79px;
+height: 2.79px;
+left: 679.06px;
+top: 209.69px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: rotate(-32.9deg);
+
+
+/* Rectangle 832 */
+
+position: absolute;
+width: 1.3px;
+height: 1.3px;
+left: 690.6px;
+top: 161.69px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: matrix(-0.84, 0.54, 0.54, 0.84, 0, 0);
+
+
+/* Rectangle 833 */
+
+position: absolute;
+width: 1.38px;
+height: 1.38px;
+left: 711.24px;
+top: 187.05px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: matrix(0.84, -0.54, 0.54, 0.84, 0, 0);
+
+
+/* Rectangle 835 */
+
+position: absolute;
+width: 1.38px;
+height: 1.38px;
+left: 639.5px;
+top: 248.1px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: rotate(-32.9deg);
+
+
+/* Rectangle 836 */
+
+position: absolute;
+width: 1.38px;
+height: 1.38px;
+left: 595.57px;
+top: 231.14px;
+
+background: rgba(5, 0, 255, 0.5);
+transform: rotate(-32.9deg);
+
+
+/* Rectangle 837 */
+
+position: absolute;
+width: 0.96px;
+height: 0.96px;
+left: 626.54px;
+top: 216.42px;
+
+background: rgba(5, 0, 255, 0.5);
+transform: matrix(0.84, -0.54, 0.54, 0.84, 0, 0);
+
+
+/* Rectangle 838 */
+
+position: absolute;
+width: 1.8px;
+height: 1.8px;
+left: 619.36px;
+top: 226.46px;
+
+background: rgba(5, 0, 255, 0.5);
+transform: matrix(0.84, -0.54, 0.54, 0.84, 0, 0);
+
+
+/* Group 1175 */
+
+position: absolute;
+width: 97.14px;
+height: 105.81px;
+left: 490.4px;
+top: 83.71px;
+
+transform: rotate(-35.31deg);
+
+
+/* Rectangle 831 */
+
+position: absolute;
+width: 2.79px;
+height: 2.79px;
+left: 572.2px;
+top: 176.31px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: rotate(9.69deg);
+
+
+/* Rectangle 832 */
+
+position: absolute;
+width: 1.3px;
+height: 1.3px;
+left: 613.99px;
+top: 148.18px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: matrix(-0.99, -0.17, -0.17, 0.99, 0, 0);
+
+
+/* Rectangle 833 */
+
+position: absolute;
+width: 1.38px;
+height: 1.38px;
+left: 611.98px;
+top: 180.85px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: rotate(9.69deg);
+
+
+/* Rectangle 835 */
+
+position: absolute;
+width: 1.38px;
+height: 1.38px;
+left: 517.84px;
+top: 177.25px;
+
+background: rgba(0, 102, 255, 0.5);
+transform: rotate(9.69deg);
+
+
+/* Rectangle 836 */
+
+position: absolute;
+width: 1.38px;
+height: 1.38px;
+left: 496.97px;
+top: 135.04px;
+
+background: rgba(5, 0, 255, 0.5);
+transform: rotate(9.69deg);
+
+
+/* Rectangle 837 */
+
+position: absolute;
+width: 0.96px;
+height: 0.96px;
+left: 529.96px;
+top: 144.99px;
+
+background: rgba(5, 0, 255, 0.5);
+transform: matrix(0.99, 0.17, -0.17, 0.99, 0, 0);
+
+
+/* Rectangle 838 */
+
+position: absolute;
+width: 1.8px;
+height: 1.8px;
+left: 517.43px;
+top: 147.86px;
+
+background: rgba(5, 0, 255, 0.5);
+transform: rotate(9.69deg);
+
+
+/* Top menu */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 41.65px;
+
+position: absolute;
+width: 311.08px;
+height: 19.16px;
+left: 146.7px;
+top: 12.51px;
+
+
+
+/* Home */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.16503px;
+gap: 4.17px;
+
+width: 30.33px;
+height: 18.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Home */
+
+width: 22px;
+height: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 7.08055px;
+line-height: 143.2%;
+/* or 10px */
+text-align: center;
+
+color: rgba(255, 255, 255, 0.85);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* About */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.16503px;
+gap: 4.17px;
+
+width: 30.33px;
+height: 18.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* About */
+
+width: 22px;
+height: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 7.08055px;
+line-height: 143.2%;
+/* or 10px */
+text-align: center;
+
+color: rgba(255, 255, 255, 0.85);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Logo name */
+
+box-sizing: border-box;
+
+width: 19.16px;
+height: 19.16px;
+
+border-radius: 13.6851px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Ellipse 173 */
+
+position: absolute;
+width: 10.45px;
+height: 18.28px;
+left: 4.19px;
+top: 0.44px;
+
+background: linear-gradient(157.01deg, #BA72BA 2.92%, #626BFE 97.09%);
+
+
+/* Work */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.16503px;
+gap: 4.17px;
+
+width: 27.33px;
+height: 18.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Work */
+
+width: 19px;
+height: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 7.08055px;
+line-height: 143.2%;
+/* or 10px */
+text-align: center;
+
+color: rgba(255, 255, 255, 0.85);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Contact */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.16503px;
+gap: 4.17px;
+
+width: 37.33px;
+height: 18.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Contact */
+
+width: 29px;
+height: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 7.08055px;
+line-height: 143.2%;
+/* or 10px */
+text-align: center;
+
+color: rgba(255, 255, 255, 0.85);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 3510 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 29.31px;
+
+position: absolute;
+width: 279px;
+height: 138.44px;
+left: 112.43px;
+top: 175.04px;
+
+
+
+/* Creative UI Designer Sourasith Phomhome Based in Monteal */
+
+width: 279px;
+height: 84px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24.9902px;
+line-height: 100%;
+/* or 25px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 3509 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12.56px;
+
+width: 233.66px;
+height: 25.13px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 3462 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 110.55px;
+height: 25.13px;
+
+background: rgba(255, 255, 255, 0.3);
+box-shadow: 0px 4.1875px 8.375px rgba(0, 0, 0, 0.15);
+backdrop-filter: blur(4.84731px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 14.5419px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Hire Me */
+
+width: 37px;
+height: 14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 10.05px;
+line-height: 143.2%;
+/* or 14px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 3461 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4.1875px;
+gap: 4.19px;
+
+width: 110.55px;
+height: 25.13px;
+
+background: linear-gradient(281.25deg, #2957A3 31.79%, #C961DE 98.74%);
+box-shadow: 0px 4.1875px 8.375px rgba(16, 19, 49, 0.15);
+border-radius: 12.5625px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Download CV */
+
+width: 68px;
+height: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 10.05px;
+line-height: 100%;
+/* identical to box height, or 10px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Side menu */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 33.32px;
+height: 291.55px;
+left: 0.09px;
+top: 89.14px;
+
+background: rgba(255, 255, 255, 0.4);
+box-shadow: 0px 16.6075px 16.6075px rgba(69, 42, 124, 0.15);
+backdrop-filter: blur(4.1875px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 0px 20.8251px 20.8251px 0px;
+
+
+/* Background */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 33.32px;
+height: 291.55px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.4);
+box-shadow: 0px 16.6075px 16.6075px rgba(69, 42, 124, 0.15);
+backdrop-filter: blur(4.1875px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Menu icons */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 33.32px;
+
+position: absolute;
+width: 18.33px;
+height: 224.49px;
+left: 7.5px;
+top: 33.74px;
+
+
+
+/* Home */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.16503px;
+gap: 4.17px;
+
+width: 18.33px;
+height: 18.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* home
+
+address, app, application--house, architecture, building, components, design, estate, home, homepage, house, interface, layout, place, real, residence, residential, screen, shelter, site, structure, ui, unit, ux, web, website, window
+*/
+
+width: 10px;
+height: 10px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 14.58%;
+bottom: 14.58%;
+
+background: #0F103F;
+
+
+/* About */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.16503px;
+gap: 4.17px;
+
+width: 18.33px;
+height: 18.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* person_outline
+
+account, face, human, outline, people, person, profile, user
+*/
+
+width: 10px;
+height: 10px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.67%;
+bottom: 16.67%;
+
+background: #0F103F;
+
+
+/* Portfolio */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.16503px;
+gap: 4.17px;
+
+width: 18.33px;
+height: 18.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* work
+
+-briefcase, bag, baggage, business, case, job, suitcase, work
+*/
+
+width: 10px;
+height: 10px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+background: #FFFFFF;
+
+
+/* Contact */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.16503px;
+gap: 4.17px;
+
+width: 17.91px;
+height: 17.91px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Phone_fill */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0.833005px;
+gap: 4.17px;
+
+width: 9.58px;
+height: 9.58px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector 189 */
+
+width: 7.91px;
+height: 7.91px;
+
+background: #0F103F;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Search */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.16503px;
+gap: 4.17px;
+
+width: 18.33px;
+height: 18.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* search
+
+filter, find, glass, look, magnify, magnifying, search, see
+*/
+
+width: 10px;
+height: 10px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.56%;
+right: 13.56%;
+top: 13.56%;
+bottom: 13.56%;
+
+background: #0F103F;
+
+
+/* About me page */
+
+position: absolute;
+width: 603px;
+height: 428.8px;
+left: 0px;
+top: 428.8px;
+
+
+
+/* Frame 3506 */
+
+position: absolute;
+width: 421.26px;
+height: 345.21px;
+left: 90.87px;
+top: 41.88px;
+
+
+
+/* Ellipse 328 */
+
+position: absolute;
+width: 398.88px;
+height: 331.95px;
+left: 11.27px;
+top: 12.06px;
+
+background: rgba(36, 43, 128, 0.5);
+filter: blur(33.8037px);
+
+
+/* Small Circle */
+
+position: absolute;
+width: 399.9px;
+height: 197.03px;
+left: 21.36px;
+top: 132.74px;
+
+
+
+/* Ellipse 1423 */
+
+position: absolute;
+left: 5.07%;
+right: 0%;
+top: 38.45%;
+bottom: 6.99%;
+
+mix-blend-mode: overlay;
+
+
+/* Ellipse 1429 */
+
+position: absolute;
+left: 5.07%;
+right: 0%;
+top: 38.65%;
+bottom: 6.8%;
+
+mix-blend-mode: overlay;
+
+
+/* Ellipse 1430 */
+
+position: absolute;
+left: 5.07%;
+right: 0%;
+top: 39.34%;
+bottom: 6.31%;
+
+mix-blend-mode: overlay;
+
+
+/* Ellipse 1431 */
+
+position: absolute;
+left: 5.07%;
+right: 0%;
+top: 40.28%;
+bottom: 5.54%;
+
+mix-blend-mode: overlay;
+
+
+/* Ellipse 1432 */
+
+position: absolute;
+left: 5.07%;
+right: 0%;
+top: 41.63%;
+bottom: 4.47%;
+
+mix-blend-mode: overlay;
+
+
+/* Frame 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 264.65px;
+height: 264.65px;
+left: 71.66px;
+top: -0.02px;
+
+background: linear-gradient(132.61deg, rgba(201, 97, 222, 0.8) 16.04%, rgba(41, 87, 163, 0.8) 84.51%);
+border: 0.41875px solid rgba(0, 0, 0, 0.15);
+border-radius: 159.125px;
+
+
+/* Frame 3 */
+
+position: absolute;
+width: 264.65px;
+height: 345.05px;
+left: 0px;
+top: -80.4px;
+
+border-radius: 0px 0px 189.423px 189.423px;
+
+
+/* Designer/standing/confident */
+
+position: absolute;
+width: 391.39px;
+height: 782.78px;
+left: -127.03px;
+top: -113.27px;
+
+
+
+/* Fill 1 */
+
+position: absolute;
+left: 50.58%;
+right: 38.28%;
+top: 44.48%;
+bottom: 21.85%;
+
+/* skin/light02 */
+background: #FFC999;
+
+
+/* Fill 3 */
+
+position: absolute;
+left: 57.27%;
+right: 38.48%;
+top: 74.2%;
+bottom: 22.04%;
+
+background: #FFFFFF;
+
+
+/* Fill 5 */
+
+position: absolute;
+left: 54.32%;
+right: 38.71%;
+top: 77.27%;
+bottom: 16.7%;
+
+/* Background (dark) */
+background: #1F1F47;
+
+
+/* Fill 7 */
+
+position: absolute;
+left: 55.55%;
+right: 39.46%;
+top: 77.05%;
+bottom: 18.23%;
+
+/* Background (dark) */
+background: #1F1F47;
+
+
+/* Stroke 9 */
+
+position: absolute;
+left: 56.52%;
+right: 40.07%;
+top: 78.92%;
+bottom: 18.95%;
+
+/* Text */
+background: #000000;
+
+
+/* Stroke 11 */
+
+position: absolute;
+left: 55.97%;
+right: 40.07%;
+top: 79.09%;
+bottom: 19.26%;
+
+/* Text */
+background: #000000;
+
+
+/* Fill 13 */
+
+position: absolute;
+left: 54.26%;
+right: 39.6%;
+top: 81.08%;
+bottom: 16.67%;
+
+/* Text */
+background: #000000;
+
+
+/* Stroke 15 */
+
+position: absolute;
+left: 54.61%;
+right: 39.94%;
+top: 81.4%;
+bottom: 17.32%;
+
+/* secondary/04 */
+background: #A3B5D6;
+
+
+/* Stroke 17 */
+
+position: absolute;
+left: 57.33%;
+right: 38.45%;
+top: 74.63%;
+bottom: 25.11%;
+
+/* Text */
+background: #000000;
+
+
+/* Stroke 19 */
+
+position: absolute;
+left: 55.99%;
+right: 38.51%;
+top: 78.28%;
+bottom: 20.47%;
+
+/* Text */
+background: #000000;
+
+
+/* Stroke 21 */
+
+position: absolute;
+left: 59.8%;
+right: 39.79%;
+top: 77.62%;
+bottom: 21.62%;
+
+/* Text */
+background: #000000;
+
+
+/* Stroke 23 */
+
+position: absolute;
+left: 57.86%;
+right: 41.74%;
+top: 77.42%;
+bottom: 21.82%;
+
+/* Text */
+background: #000000;
+
+
+/* Fill 25 */
+
+position: absolute;
+left: 36.9%;
+right: 51.96%;
+top: 44.15%;
+bottom: 22.18%;
+
+/* skin/light02 */
+background: #FFC999;
+
+
+/* Fill 27 */
+
+position: absolute;
+left: 42.74%;
+right: 45.69%;
+top: 42.11%;
+bottom: 56.92%;
+
+background: #002AB3;
+
+
+/* Fill 29 */
+
+position: absolute;
+left: 42.35%;
+right: 44.91%;
+top: 37.95%;
+bottom: 57.74%;
+
+background: #FFFFFF;
+
+
+/* Stroke 31 */
+
+position: absolute;
+left: 42.62%;
+right: 44.81%;
+top: 38.52%;
+bottom: 57.63%;
+
+/* Background (dark) */
+background: #1F1F47;
+
+
+/* Fill 33 */
+
+position: absolute;
+left: 39.58%;
+right: 33.08%;
+top: 23.93%;
+bottom: 64.43%;
+
+background: #000000;
+
+
+/* Fill 35 */
+
+position: absolute;
+left: 43.94%;
+right: 48.04%;
+top: 25.71%;
+bottom: 68.2%;
+
+/* skin/light02 */
+background: #FFC999;
+
+
+/* Stroke 37 */
+
+position: absolute;
+left: 47.47%;
+right: 50.67%;
+top: 28.3%;
+bottom: 71.28%;
+
+/* intersperse/red */
+background: #F5222D;
+
+
+/* Stroke 39 */
+
+position: absolute;
+left: 48.81%;
+right: 49.99%;
+top: 27.17%;
+bottom: 71.72%;
+
+/* skin/dark02 */
+background: #DD936F;
+
+
+/* Fill 41 */
+
+position: absolute;
+left: 35.86%;
+right: 39.77%;
+top: 31.76%;
+bottom: 58.28%;
+
+background: #FFFFFF;
+
+
+/* Fill 43 */
+
+position: absolute;
+left: 48.46%;
+right: 39.43%;
+top: 36.53%;
+bottom: 58.57%;
+
+/* skin/light02 */
+background: #FFC999;
+
+
+/* Fill 45 */
+
+position: absolute;
+left: 37.37%;
+right: 42.67%;
+top: 37.12%;
+bottom: 58.19%;
+
+/* skin/light02 */
+background: #FFC999;
+
+
+/* Stroke 47 */
+
+position: absolute;
+left: 54.66%;
+right: 43.93%;
+top: 34.86%;
+bottom: 61.71%;
+
+/* Background (dark) */
+background: #1F1F47;
+
+
+/* Stroke 49 */
+
+position: absolute;
+left: 43.22%;
+right: 52.05%;
+top: 32.63%;
+bottom: 67.27%;
+
+/* Background (dark) */
+background: #1F1F47;
+
+
+/* Stroke 51 */
+
+position: absolute;
+left: 43.05%;
+right: 49.79%;
+top: 32.6%;
+bottom: 64.38%;
+
+/* Text */
+background: #000000;
+
+
+/* Fill 53 */
+
+position: absolute;
+left: 47.07%;
+right: 49.55%;
+top: 35.43%;
+bottom: 62.81%;
+
+/* Text */
+background: #000000;
+
+
+/* Fill 55 */
+
+position: absolute;
+left: 47.25%;
+right: 49.37%;
+top: 35.43%;
+bottom: 62.82%;
+
+/* Text */
+background: #000000;
+
+
+/* Fill 57 */
+
+position: absolute;
+left: 47.63%;
+right: 49.75%;
+top: 35.61%;
+bottom: 63.03%;
+
+/* Primary (dark) */
+background: #8352FD;
+
+
+/* Stroke 59 */
+
+position: absolute;
+left: 46.49%;
+right: 51.23%;
+top: 30.14%;
+bottom: 69.47%;
+
+/* skin/dark02 */
+background: #DD936F;
+
+
+/* Fill 61 */
+
+position: absolute;
+left: 40.45%;
+right: 52.46%;
+top: 37.63%;
+bottom: 60.39%;
+
+/* skin/light02 */
+background: #FFC999;
+
+
+/* Stroke 63 */
+
+position: absolute;
+left: 40.16%;
+right: 52.27%;
+top: 37.54%;
+bottom: 60.36%;
+
+/* skin/dark02 */
+background: #DD936F;
+
+
+/* Stroke 65 */
+
+position: absolute;
+left: 40.49%;
+right: 57.01%;
+top: 37.95%;
+bottom: 61.19%;
+
+/* skin/dark02 */
+background: #DD936F;
+
+
+/* Stroke 67 */
+
+position: absolute;
+left: 40.63%;
+right: 56.24%;
+top: 38.27%;
+bottom: 60.8%;
+
+/* skin/dark02 */
+background: #DD936F;
+
+
+/* Stroke 69 */
+
+position: absolute;
+left: 41.25%;
+right: 56.24%;
+top: 38.65%;
+bottom: 60.57%;
+
+/* skin/dark02 */
+background: #DD936F;
+
+
+/* Stroke 71 */
+
+position: absolute;
+left: 37.27%;
+right: 57.79%;
+top: 35.57%;
+bottom: 61.64%;
+
+/* Background (dark) */
+background: #1F1F47;
+
+
+/* Stroke 73 */
+
+position: absolute;
+left: 56.04%;
+right: 40.91%;
+top: 36.47%;
+bottom: 63.09%;
+
+/* Background (dark) */
+background: #1F1F47;
+
+
+/* Stroke 75 */
+
+position: absolute;
+left: 47.86%;
+right: 42.61%;
+top: 38.19%;
+bottom: 58.79%;
+
+/* skin/dark02 */
+background: #DD936F;
+
+
+/* Stroke 77 */
+
+position: absolute;
+left: 42.81%;
+right: 45.7%;
+top: 42.62%;
+bottom: 56.82%;
+
+/* Text */
+background: #000000;
+
+
+/* Stroke 79 */
+
+position: absolute;
+left: 46.07%;
+right: 52.08%;
+top: 27.16%;
+bottom: 72.27%;
+
+/* Text */
+background: #000000;
+
+
+/* Stroke 81 */
+
+position: absolute;
+left: 49.83%;
+right: 48.49%;
+top: 27.21%;
+bottom: 72.23%;
+
+/* Text */
+background: #000000;
+
+
+/* Stroke 83 */
+
+position: absolute;
+left: 45.81%;
+right: 51.75%;
+top: 26.31%;
+bottom: 73.4%;
+
+/* Text */
+background: #000000;
+
+
+/* Fill 85 */
+
+position: absolute;
+left: 30.08%;
+right: 35.22%;
+top: 42.57%;
+bottom: 41.76%;
+
+background: #002AB3;
+
+
+/* Stroke 87 */
+
+position: absolute;
+left: 31.86%;
+right: 58.63%;
+top: 47.01%;
+bottom: 42.65%;
+
+/* Text */
+background: #000000;
+
+
+/* Stroke 89 */
+
+position: absolute;
+left: 55.66%;
+right: 36.75%;
+top: 46.31%;
+bottom: 42.84%;
+
+/* Text */
+background: #000000;
+
+
+/* Stroke 91 */
+
+position: absolute;
+left: 41.14%;
+right: 43.09%;
+top: 44.14%;
+bottom: 41.76%;
+
+/* Text */
+background: #000000;
+
+
+/* Stroke 93 */
+
+position: absolute;
+left: 47.32%;
+right: 51.49%;
+top: 44.32%;
+bottom: 46.4%;
+
+/* Text */
+background: #000000;
+
+
+/* Stroke 95 */
+
+position: absolute;
+left: 41.48%;
+right: 54.63%;
+top: 42.89%;
+bottom: 51.41%;
+
+/* Text */
+background: #000000;
+
+
+/* Fill 97 */
+
+position: absolute;
+left: 37.1%;
+right: 58.65%;
+top: 73.87%;
+bottom: 22.37%;
+
+background: #FFFFFF;
+
+
+/* Fill 99 */
+
+position: absolute;
+left: 37.33%;
+right: 55.7%;
+top: 76.94%;
+bottom: 17.03%;
+
+/* Background (dark) */
+background: #1F1F47;
+
+
+/* Fill 101 */
+
+position: absolute;
+left: 38.08%;
+right: 56.93%;
+top: 76.72%;
+bottom: 18.57%;
+
+/* Background (dark) */
+background: #1F1F47;
+
+
+/* Stroke 103 */
+
+position: absolute;
+left: 38.69%;
+right: 57.9%;
+top: 78.59%;
+bottom: 19.29%;
+
+/* Text */
+background: #000000;
+
+
+/* Stroke 105 */
+
+position: absolute;
+left: 38.69%;
+right: 57.35%;
+top: 78.76%;
+bottom: 19.59%;
+
+/* Text */
+background: #000000;
+
+
+/* Fill 107 */
+
+position: absolute;
+left: 38.22%;
+right: 55.64%;
+top: 80.75%;
+bottom: 17%;
+
+/* Text */
+background: #000000;
+
+
+/* Stroke 109 */
+
+position: absolute;
+left: 38.56%;
+right: 55.99%;
+top: 81.07%;
+bottom: 17.65%;
+
+/* secondary/04 */
+background: #A3B5D6;
+
+
+/* Stroke 111 */
+
+position: absolute;
+left: 37.07%;
+right: 58.71%;
+top: 74.29%;
+bottom: 25.44%;
+
+/* Text */
+background: #000000;
+
+
+/* Stroke 113 */
+
+position: absolute;
+left: 37.13%;
+right: 57.37%;
+top: 77.95%;
+bottom: 20.81%;
+
+/* Text */
+background: #000000;
+
+
+/* Stroke 115 */
+
+position: absolute;
+left: 38.41%;
+right: 61.18%;
+top: 77.28%;
+bottom: 21.96%;
+
+/* Text */
+background: #000000;
+
+
+/* Stroke 117 */
+
+position: absolute;
+left: 40.36%;
+right: 59.24%;
+top: 77.09%;
+bottom: 22.15%;
+
+/* Text */
+background: #000000;
+
+
+/* My name is Sourasith Phomhome. I’m a UI Designer and a instrutor based in Montreal. I’m curently working with Design+Code. I’m passionate about creating digital experiences and teaching design. My goal is to help beginners to grow their skills...read more */
+
+position: absolute;
+width: 127.45px;
+height: 72px;
+left: 120.79px;
+top: 192.86px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 7.11875px;
+line-height: 130%;
+/* or 9px */
+
+color: #FFFFFF;
+
+
+
+/* About me */
+
+position: absolute;
+width: 51px;
+height: 15px;
+left: 121.86px;
+top: 169.59px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 10.05px;
+line-height: 15px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Group 1167 */
+
+position: absolute;
+visibility: hidden;
+width: 147.06px;
+height: 220px;
+left: 262.56px;
+top: 139.03px;
+
+
+
+/* Mask Group */
+
+position: absolute;
+width: 106.7px;
+height: 122.4px;
+left: 279.89px;
+top: 236.63px;
+
+
+
+/* Rectangle 826 */
+
+position: absolute;
+width: 106.7px;
+height: 122.4px;
+left: 279.89px;
+top: 236.63px;
+
+background: linear-gradient(180deg, #000000 -39.5%, rgba(0, 0, 0, 0) 68.59%);
+
+
+/* Group 1164 */
+
+position: absolute;
+width: 77.93px;
+height: 119.7px;
+left: 297.12px;
+top: 243.91px;
+
+opacity: 0.8;
+transform: rotate(-180deg);
+
+
+/* Rectangle 818 */
+
+position: absolute;
+width: 38.97px;
+height: 103.89px;
+left: 336.09px;
+top: 243.91px;
+
+background: linear-gradient(181.55deg, #3D79ED 1.03%, rgba(52, 88, 193, 0.7) 20.47%, rgba(55, 83, 184, 0.7) 46.31%, rgba(91, 176, 255, 0.9) 66.57%, rgba(91, 176, 255, 0.6) 74.19%);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Rectangle 822 */
+
+position: absolute;
+width: 26.36px;
+height: 47.44px;
+left: 336.09px;
+top: 243.91px;
+
+background: linear-gradient(14.07deg, rgba(255, 255, 255, 0.7) 15.78%, rgba(223, 244, 255, 0.7) 38.98%, rgba(14, 66, 200, 0.7) 73.62%);
+opacity: 0.8;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Rectangle 820 */
+
+position: absolute;
+width: 38.97px;
+height: 103.89px;
+left: 297.12px;
+top: 243.91px;
+
+background: linear-gradient(338.65deg, rgba(255, 255, 255, 0.5) 11.33%, rgba(255, 255, 255, 0) 63.16%),
+linear-gradient(333.82deg, rgba(255, 255, 255, 0.7) 15.09%, rgba(255, 121, 218, 0.7) 26.51%, rgba(61, 58, 227, 0.63) 39.99%);
+opacity: 0.8;
+transform: rotate(-180deg);
+
+
+/* Rectangle 821 */
+
+position: absolute;
+width: 22.35px;
+height: 22.35px;
+left: 324.51px;
+top: 332px;
+
+background: linear-gradient(166.4deg, #1AD6FF 6.33%, rgba(73, 107, 228, 0.6) 81.15%, #1F3CA3 81.15%);
+transform: rotate(-135deg);
+
+
+/* Rectangle 815 */
+
+position: absolute;
+width: 18.75px;
+height: 18.75px;
+left: 322.83px;
+top: 259.45px;
+
+background: linear-gradient(238.34deg, rgba(129, 255, 108, 0.5) 17.43%, rgba(49, 243, 255, 0.5) 90.11%);
+transform: rotate(-135deg);
+
+
+/* Rectangle 813 */
+
+position: absolute;
+width: 22.35px;
+height: 22.35px;
+left: 316.06px;
+top: 332px;
+
+background: linear-gradient(230.31deg, rgba(255, 121, 201, 0.8) 0.35%, rgba(31, 60, 163, 0.8) 61.27%);
+transform: rotate(-135deg);
+
+
+/* Rectangle 813 */
+
+position: absolute;
+width: 15.19px;
+height: 15.19px;
+left: 325.35px;
+top: 337.55px;
+
+background: linear-gradient(231.55deg, rgba(82, 255, 110, 0.6) 8.89%, rgba(49, 255, 255, 0.6) 68.64%);
+transform: rotate(-135deg);
+
+
+/* Group 1162 */
+
+position: absolute;
+width: 38.97px;
+height: 47.44px;
+left: 297.12px;
+top: 243.91px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Rectangle 824 */
+
+position: absolute;
+width: 26.36px;
+height: 47.44px;
+left: 309.72px;
+top: 243.91px;
+
+background: linear-gradient(351.1deg, #FFFFFF 23.52%, rgba(255, 170, 206, 0.8) 46.43%, rgba(111, 151, 255, 0.8) 65.86%);
+opacity: 0.8;
+transform: rotate(-180deg);
+
+
+/* Rectangle 825 */
+
+position: absolute;
+width: 15.68px;
+height: 20.92px;
+left: 297.12px;
+top: 258.2px;
+
+background: linear-gradient(339.26deg, rgba(255, 255, 255, 0.7) 32.45%, rgba(255, 148, 212, 0.7) 72.4%, rgba(201, 148, 255, 0.7) 100%);
+transform: rotate(-180deg);
+
+
+/* Rectangle 814 */
+
+position: absolute;
+width: 30.52px;
+height: 30.52px;
+left: 314.51px;
+top: 264.39px;
+
+background: linear-gradient(315deg, rgba(255, 255, 255, 0.7) 23.16%, rgba(255, 255, 255, 0) 80.24%),
+linear-gradient(238.34deg, rgba(129, 255, 108, 0.7) 17.43%, rgba(49, 243, 255, 0.7) 90.11%);
+transform: rotate(-135deg);
+
+
+/* Rectangle 816 */
+
+position: absolute;
+width: 21.58px;
+height: 20.93px;
+left: 314.51px;
+top: 265.04px;
+
+background: linear-gradient(228.79deg, rgba(255, 255, 255, 0.9) 12.24%, rgba(140, 255, 49, 0.9) 27.14%, rgba(69, 195, 235, 0.9) 41.88%, rgba(114, 230, 255, 0.9) 96.45%);
+transform: rotate(-180deg);
+
+
+/* Rectangle 818 */
+
+position: absolute;
+width: 21.58px;
+height: 74.8px;
+left: 336.09px;
+top: 273.49px;
+
+background: linear-gradient(22.38deg, rgba(108, 255, 237, 0.6) 13.02%, rgba(25, 127, 159, 0.6) 82%);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Rectangle 820 */
+
+position: absolute;
+width: 21.58px;
+height: 74.8px;
+left: 314.51px;
+top: 273.49px;
+
+background: linear-gradient(344.6deg, rgba(255, 255, 255, 0.9) 10.36%, rgba(109, 243, 144, 0.9) 34.8%, rgba(33, 202, 255, 0.81) 50.53%);
+transform: rotate(-180deg);
+
+
+/* Rectangle 817 */
+
+position: absolute;
+width: 21.58px;
+height: 20.93px;
+left: 336.09px;
+top: 265.04px;
+
+background: linear-gradient(227.44deg, rgba(255, 255, 255, 0.9) 12.04%, rgba(140, 255, 49, 0.9) 28.69%, rgba(91, 245, 255, 0.9) 43.16%);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Rectangle 823 */
+
+position: absolute;
+width: 15.68px;
+height: 20.92px;
+left: 359.37px;
+top: 258.2px;
+
+background: linear-gradient(5.76deg, rgba(223, 244, 255, 0.7) -6.05%, rgba(14, 66, 200, 0.7) 93.42%);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Group 1165 */
+
+position: absolute;
+width: 147.06px;
+height: 64.22px;
+left: 262.56px;
+top: 223.51px;
+
+
+
+/* Ellipse 326 */
+
+position: absolute;
+width: 147.06px;
+height: 64.22px;
+left: 262.56px;
+top: 223.51px;
+
+background: radial-gradient(50% 50% at 50% 50%, rgba(115, 154, 255, 0.6) 0%, rgba(105, 120, 255, 0) 100%);
+filter: blur(1.57433px);
+
+
+/* Ellipse 327 */
+
+position: absolute;
+width: 104.46px;
+height: 45.62px;
+left: 283.86px;
+top: 232.81px;
+
+background: radial-gradient(50% 50% at 50% 50%, rgba(115, 154, 255, 0.6) 0%, rgba(105, 120, 255, 0) 100%);
+filter: blur(1.57433px);
+
+
+/* Rectangle 811 */
+
+position: absolute;
+width: 54.12px;
+height: 54.12px;
+left: 297.81px;
+top: 213.03px;
+
+background: linear-gradient(180deg, rgba(108, 123, 255, 0.5) 0%, rgba(49, 181, 255, 0.5) 100%);
+transform: rotate(45deg);
+
+
+/* Group 1163 */
+
+position: absolute;
+width: 77.93px;
+height: 119.7px;
+left: 297.12px;
+top: 139.03px;
+
+
+
+/* Rectangle 818 */
+
+position: absolute;
+width: 38.97px;
+height: 103.89px;
+left: 297.12px;
+top: 154.83px;
+
+background: linear-gradient(181.55deg, #3D79ED 1.03%, rgba(52, 88, 193, 0.7) 20.47%, rgba(55, 83, 184, 0.7) 46.31%, rgba(91, 176, 255, 0.9) 66.57%, rgba(91, 176, 255, 0.6) 74.19%);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 822 */
+
+position: absolute;
+width: 26.36px;
+height: 47.44px;
+left: 309.72px;
+top: 211.29px;
+
+background: linear-gradient(14.07deg, rgba(255, 255, 255, 0.7) 15.78%, rgba(223, 244, 255, 0.7) 38.98%, rgba(14, 66, 200, 0.7) 73.62%);
+opacity: 0.8;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 820 */
+
+position: absolute;
+width: 38.97px;
+height: 103.89px;
+left: 336.09px;
+top: 154.83px;
+
+background: linear-gradient(338.65deg, rgba(255, 255, 255, 0.5) 11.33%, rgba(255, 255, 255, 0) 63.16%),
+linear-gradient(333.82deg, rgba(255, 255, 255, 0.7) 15.09%, rgba(255, 121, 218, 0.7) 26.51%, rgba(61, 58, 227, 0.63) 39.99%);
+opacity: 0.8;
+
+
+/* Rectangle 821 */
+
+position: absolute;
+width: 22.35px;
+height: 22.35px;
+left: 316.06px;
+top: 139.03px;
+
+background: linear-gradient(166.4deg, #1AD6FF 6.33%, rgba(73, 107, 228, 0.6) 81.15%, #1F3CA3 81.15%);
+transform: rotate(45deg);
+
+
+/* Rectangle 815 */
+
+position: absolute;
+width: 18.75px;
+height: 18.75px;
+left: 322.83px;
+top: 216.66px;
+
+background: linear-gradient(238.34deg, rgba(129, 255, 108, 0.5) 17.43%, rgba(49, 243, 255, 0.5) 90.11%);
+transform: rotate(45deg);
+
+
+/* Rectangle 813 */
+
+position: absolute;
+width: 22.35px;
+height: 22.35px;
+left: 324.5px;
+top: 139.03px;
+
+background: linear-gradient(230.31deg, rgba(255, 121, 201, 0.8) 0.35%, rgba(31, 60, 163, 0.8) 61.27%);
+transform: rotate(45deg);
+
+
+/* Rectangle 813 */
+
+position: absolute;
+width: 15.19px;
+height: 15.19px;
+left: 325.34px;
+top: 143.6px;
+
+background: linear-gradient(231.55deg, rgba(82, 255, 110, 0.6) 8.89%, rgba(49, 255, 255, 0.6) 68.64%);
+transform: rotate(45deg);
+
+
+/* Group 1162 */
+
+position: absolute;
+width: 38.97px;
+height: 47.44px;
+left: 336.09px;
+top: 211.29px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 824 */
+
+position: absolute;
+width: 26.36px;
+height: 47.44px;
+left: 336.09px;
+top: 211.29px;
+
+background: linear-gradient(351.1deg, #FFFFFF 23.52%, rgba(255, 170, 206, 0.8) 46.43%, rgba(111, 151, 255, 0.8) 65.86%);
+opacity: 0.8;
+
+
+/* Rectangle 825 */
+
+position: absolute;
+width: 15.68px;
+height: 20.92px;
+left: 359.37px;
+top: 223.51px;
+
+background: linear-gradient(339.26deg, rgba(255, 255, 255, 0.7) 32.45%, rgba(255, 148, 212, 0.7) 72.4%, rgba(201, 148, 255, 0.7) 100%);
+
+
+/* Rectangle 814 */
+
+position: absolute;
+width: 30.52px;
+height: 30.52px;
+left: 314.51px;
+top: 195.08px;
+
+background: linear-gradient(315deg, rgba(255, 255, 255, 0.7) 23.16%, rgba(255, 255, 255, 0) 80.24%),
+linear-gradient(238.34deg, rgba(129, 255, 108, 0.7) 17.43%, rgba(49, 243, 255, 0.7) 90.11%);
+transform: rotate(45deg);
+
+
+/* Rectangle 816 */
+
+position: absolute;
+width: 21.58px;
+height: 20.93px;
+left: 336.08px;
+top: 216.66px;
+
+background: linear-gradient(228.79deg, rgba(255, 255, 255, 0.9) 12.24%, rgba(140, 255, 49, 0.9) 27.14%, rgba(69, 195, 235, 0.9) 41.88%, rgba(114, 230, 255, 0.9) 96.45%);
+
+
+/* Rectangle 818 */
+
+position: absolute;
+width: 21.58px;
+height: 74.8px;
+left: 314.51px;
+top: 154.34px;
+
+background: linear-gradient(22.38deg, rgba(108, 255, 237, 0.6) 13.02%, rgba(25, 127, 159, 0.6) 82%);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 820 */
+
+position: absolute;
+width: 21.58px;
+height: 74.8px;
+left: 336.09px;
+top: 154.34px;
+
+background: linear-gradient(344.6deg, rgba(255, 255, 255, 0.9) 10.36%, rgba(109, 243, 144, 0.9) 34.8%, rgba(33, 202, 255, 0.81) 50.53%);
+
+
+/* Rectangle 817 */
+
+position: absolute;
+width: 21.58px;
+height: 20.93px;
+left: 314.51px;
+top: 216.66px;
+
+background: linear-gradient(227.44deg, rgba(255, 255, 255, 0.9) 12.04%, rgba(140, 255, 49, 0.9) 28.69%, rgba(91, 245, 255, 0.9) 43.16%);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 823 */
+
+position: absolute;
+width: 15.68px;
+height: 20.92px;
+left: 297.12px;
+top: 223.51px;
+
+background: linear-gradient(5.76deg, rgba(223, 244, 255, 0.7) -6.05%, rgba(14, 66, 200, 0.7) 93.42%);
+transform: matrix(-1, 0, 0, 1, 0, 0);

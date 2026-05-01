@@ -1,0 +1,206 @@
+/* Top menu */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 41.65px;
+
+position: absolute;
+width: 311.08px;
+height: 19.16px;
+left: 146.7px;
+top: 12.51px;
+
+
+
+/* Home */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.16503px;
+gap: 4.17px;
+
+width: 30.33px;
+height: 18.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Home */
+
+width: 22px;
+height: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 7.08055px;
+line-height: 143.2%;
+/* or 10px */
+text-align: center;
+
+color: rgba(255, 255, 255, 0.85);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* About */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.16503px;
+gap: 4.17px;
+
+width: 30.33px;
+height: 18.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* About */
+
+width: 22px;
+height: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 7.08055px;
+line-height: 143.2%;
+/* or 10px */
+text-align: center;
+
+color: rgba(255, 255, 255, 0.85);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Logo name */
+
+box-sizing: border-box;
+
+width: 19.16px;
+height: 19.16px;
+
+border-radius: 13.6851px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Ellipse 173 */
+
+position: absolute;
+width: 10.45px;
+height: 18.28px;
+left: 4.19px;
+top: 0.44px;
+
+background: linear-gradient(157.01deg, #BA72BA 2.92%, #626BFE 97.09%);
+
+
+/* Work */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.16503px;
+gap: 4.17px;
+
+width: 27.33px;
+height: 18.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Work */
+
+width: 19px;
+height: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 7.08055px;
+line-height: 143.2%;
+/* or 10px */
+text-align: center;
+
+color: rgba(255, 255, 255, 0.85);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Contact */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.16503px;
+gap: 4.17px;
+
+width: 37.33px;
+height: 18.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Contact */
+
+width: 29px;
+height: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 7.08055px;
+line-height: 143.2%;
+/* or 10px */
+text-align: center;
+
+color: rgba(255, 255, 255, 0.85);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;

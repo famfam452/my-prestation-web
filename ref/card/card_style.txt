@@ -1,0 +1,587 @@
+/* Card */
+
+position: absolute;
+width: 363.72px;
+height: 242.48px;
+left: 109.74px;
+top: 86.07px;
+
+backdrop-filter: blur(4.04135px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 12.1241px;
+
+
+/* Card */
+
+position: absolute;
+width: 363.72px;
+height: 242.48px;
+left: -1.21px;
+top: -2.02px;
+
+
+
+/* Base */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 363.72px;
+height: 242.48px;
+left: -1.21px;
+top: -2.02px;
+
+background: #2F2F8A;
+opacity: 0.6;
+border-radius: 12.1241px;
+
+
+/* Frame 3508 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 31.12px;
+
+position: absolute;
+width: 301.08px;
+height: 204.9px;
+left: 31.52px;
+top: 18.99px;
+
+
+
+/* Get in touch */
+
+width: 132.56px;
+height: 139.43px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* I’m very approachable and would love to speak to you. Feel free to call, send me an email . Follow me in social media or simply complete the enquiry form. */
+
+position: absolute;
+width: 130.13px;
+height: 50px;
+left: 2.42px;
+top: 25.06px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.8703px;
+line-height: 143.2%;
+/* or 10px */
+
+color: #FFFFFF;
+
+
+
+/* Get in touch */
+
+position: absolute;
+width: 60px;
+height: 14px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 9.69924px;
+line-height: 143.2%;
+/* identical to box height, or 14px */
+
+color: #FFFFFF;
+
+
+
+/* Contact */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6.06px;
+
+position: absolute;
+width: 80.25px;
+height: 38.39px;
+left: 0px;
+top: 101.03px;
+
+
+
+/* Phone number */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 68.25px;
+height: 16.17px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* phone */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0.80827px;
+gap: 4.04px;
+
+width: 16.17px;
+height: 16.17px;
+
+background: rgba(255, 255, 255, 0.15);
+border-radius: 20.2068px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* path */
+
+width: 8.08px;
+height: 8.08px;
+
+/* Text (dark) */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 3453 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.04135px;
+gap: 4.04px;
+
+width: 52.08px;
+height: 14.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 1-514-781-3212 */
+
+width: 44px;
+height: 6px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.06203px;
+line-height: 100%;
+/* identical to box height, or 6px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Email */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 80.25px;
+height: 16.17px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* mail */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 1.61654px 0.80827px;
+gap: 4.04px;
+
+width: 16.17px;
+height: 16.17px;
+
+background: rgba(255, 255, 255, 0.15);
+border-radius: 20.2068px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Exclude */
+
+width: 8.08px;
+height: 6.47px;
+
+/* Text (dark) */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* path */
+
+position: absolute;
+width: 8.08px;
+height: 6.47px;
+left: 4.04px;
+top: 4.85px;
+
+background: #323232;
+
+
+/* path */
+
+position: absolute;
+width: 5.6px;
+height: 2.45px;
+left: 5.28px;
+top: 6.04px;
+
+border: 0.80827px solid #323232;
+border-radius: 0.80827px;
+
+
+/* Frame 3453 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4.04135px;
+gap: 4.04px;
+
+width: 64.08px;
+height: 14.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Sou12@gmail.com */
+
+width: 56px;
+height: 6px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.06203px;
+line-height: 100%;
+/* identical to box height, or 6px */
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Send me a message */
+
+width: 137.41px;
+height: 204.9px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Send message */
+
+position: absolute;
+width: 64.66px;
+height: 16.17px;
+left: 163.67px;
+top: 188.73px;
+
+
+
+/* Rectangle 4016 */
+
+position: absolute;
+width: 64.66px;
+height: 16.17px;
+left: 163.67px;
+top: 188.73px;
+
+background: linear-gradient(281.25deg, #2957A3 31.79%, #C961DE 98.74%);
+box-shadow: 0px 4.04135px 8.0827px rgba(16, 19, 49, 0.15);
+border-radius: 4.04135px;
+
+
+/* Send message */
+
+position: absolute;
+width: 46px;
+height: 9px;
+left: 172.97px;
+top: 192.37px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.06203px;
+line-height: 143.2%;
+/* identical to box height, or 9px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Message */
+
+position: absolute;
+width: 137.41px;
+height: 80.83px;
+left: 163.67px;
+top: 99.82px;
+
+
+
+/* Rectangle 4015 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 137.41px;
+height: 80.83px;
+left: 163.67px;
+top: 99.82px;
+
+background: rgba(235, 250, 255, 0.3);
+box-shadow: 0px 4.04135px 8.0827px rgba(0, 0, 0, 0.15);
+border-radius: 4.04135px;
+
+
+/* Your message */
+
+position: absolute;
+width: 44px;
+height: 9px;
+left: 169.74px;
+top: 109.12px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.06203px;
+line-height: 143.2%;
+/* identical to box height, or 9px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Subject */
+
+position: absolute;
+width: 137.41px;
+height: 16.17px;
+left: 163.67px;
+top: 75.57px;
+
+
+
+/* Rectangle 4014 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 137.41px;
+height: 16.17px;
+left: 163.67px;
+top: 75.57px;
+
+background: rgba(235, 250, 255, 0.3);
+box-shadow: 0px 4.04135px 8.0827px rgba(0, 0, 0, 0.15);
+border-radius: 4.04135px;
+
+
+/* Subject */
+
+position: absolute;
+width: 23px;
+height: 9px;
+left: 170.95px;
+top: 79.21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.06203px;
+line-height: 143.2%;
+/* identical to box height, or 9px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Email adress */
+
+position: absolute;
+width: 137.41px;
+height: 16.17px;
+left: 163.67px;
+top: 51.33px;
+
+
+
+/* Rectangle 4013 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 137.41px;
+height: 16.17px;
+left: 163.67px;
+top: 51.33px;
+
+background: rgba(235, 250, 255, 0.3);
+box-shadow: 0px 4.04135px 8.0827px rgba(0, 0, 0, 0.15);
+border-radius: 4.04135px;
+
+
+/* Email Adress */
+
+position: absolute;
+width: 39px;
+height: 9px;
+left: 170.54px;
+top: 54.96px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.06203px;
+line-height: 143.2%;
+/* identical to box height, or 9px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Name */
+
+position: absolute;
+width: 137.41px;
+height: 16.17px;
+left: 163.67px;
+top: 27.08px;
+
+
+
+/* Rectangle 4012 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 137.41px;
+height: 16.17px;
+left: 163.67px;
+top: 27.08px;
+
+background: rgba(235, 250, 255, 0.3);
+box-shadow: 0px 4.04135px 8.0827px rgba(0, 0, 0, 0.15);
+border-radius: 4.04135px;
+
+
+/* Name */
+
+position: absolute;
+width: 19px;
+height: 9px;
+left: 170.95px;
+top: 30.71px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.06203px;
+line-height: 143.2%;
+/* identical to box height, or 9px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Send me a message */
+
+position: absolute;
+width: 101px;
+height: 14px;
+left: 165.29px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 9.69924px;
+line-height: 143.2%;
+/* identical to box height, or 14px */
+
+color: #FFFFFF;

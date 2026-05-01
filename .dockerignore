@@ -1,0 +1,28 @@
+.git
+.gitignore
+.next
+node_modules
+
+# Editor / OS
+.vscode
+.idea
+.DS_Store
+
+# Environment
+.env*.local
+.env
+
+# Project-local extras that shouldn't ship into the image
+weighted-score-app
+ref
+parse_css.py
+
+# Build artifacts and logs
+*.log
+npm-debug.log*
+.turbo
+coverage
+
+# Docker artifacts
+Dockerfile
+.dockerignore
